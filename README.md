@@ -1,0 +1,1 @@
+A device designed for medicine storage that provides notifications when it’s time to take your medication and monitors and displays atmospheric humidity and temperature, alerting you if they fall outside the optimal range. The device automatically adjusts to reduce sunlight exposure when the intensity is too high, ensuring safe storage conditions.
